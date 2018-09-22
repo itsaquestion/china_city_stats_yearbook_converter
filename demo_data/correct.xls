@@ -1,0 +1,428 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2014年地级以上城市按产业划分的年末单位从业人员构成统计(二)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table class="exp" id="tab0">
+<tr><td>单位:%</td></tr>
+</table>
+<table id="tab1" class="tb">
+<tr><td class="biaotou" rowspan="2">城市</td>
+<td class="biaotou" colspan="2">第一产业从业人员比重</td>
+<td class="biaotou" colspan="2">第二产业从业人员比重</td>
+<td class="biaotou" colspan="2">第三产业从业人员比重</td>
+</tr><tr><td class="biaotou">全市</td>
+<td class="biaotou">市辖区</td>
+<td class="biaotou">全市</td>
+<td class="biaotou">市辖区</td>
+<td class="biaotou">全市</td>
+<td class="biaotou">市辖区</td>
+</tr><tr><td class="zhibiao">&nbsp;&nbsp;阜新市</td>
+<td class="shuju">1.94</td>
+<td class="shuju">0.28</td>
+<td class="shuju">48.24</td>
+<td class="shuju">57.09</td>
+<td class="shuju">49.82</td>
+<td class="shuju">42.63</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;辽阳市</td>
+<td class="shuju">1.66</td>
+<td class="shuju">1.36</td>
+<td class="shuju">47.34</td>
+<td class="shuju">51.21</td>
+<td class="shuju">51.00</td>
+<td class="shuju">47.43</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;盘锦市</td>
+<td class="shuju">35.46</td>
+<td class="shuju">0.04</td>
+<td class="shuju">40.01</td>
+<td class="shuju">66.87</td>
+<td class="shuju">24.53</td>
+<td class="shuju">33.09</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;铁岭市</td>
+<td class="shuju">6.41</td>
+<td class="shuju">0.09</td>
+<td class="shuju">44.25</td>
+<td class="shuju">34.14</td>
+<td class="shuju">49.34</td>
+<td class="shuju">65.77</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;朝阳市</td>
+<td class="shuju">0.82</td>
+<td class="shuju">0.23</td>
+<td class="shuju">41.09</td>
+<td class="shuju">44.21</td>
+<td class="shuju">58.09</td>
+<td class="shuju">55.56</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;葫芦岛市</td>
+<td class="shuju">1.11</td>
+<td class="shuju">0.18</td>
+<td class="shuju">52.86</td>
+<td class="shuju">66.69</td>
+<td class="shuju">46.03</td>
+<td class="shuju">33.13</td>
+</tr>
+<tr><td class="zhibiao">吉林省</td>
+<td class="shuju">3.46</td>
+<td class="shuju">1.08</td>
+<td class="shuju">45.95</td>
+<td class="shuju">53.39</td>
+<td class="shuju">50.59</td>
+<td class="shuju">45.53</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;长春市</td>
+<td class="shuju">0.94</td>
+<td class="shuju">0.22</td>
+<td class="shuju">49.48</td>
+<td class="shuju">53.65</td>
+<td class="shuju">49.58</td>
+<td class="shuju">46.13</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;吉林市</td>
+<td class="shuju">2.29</td>
+<td class="shuju">0.28</td>
+<td class="shuju">48.13</td>
+<td class="shuju">53.17</td>
+<td class="shuju">49.58</td>
+<td class="shuju">46.55</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;四平市</td>
+<td class="shuju">3.86</td>
+<td class="shuju">1.82</td>
+<td class="shuju">27.00</td>
+<td class="shuju">31.90</td>
+<td class="shuju">69.14</td>
+<td class="shuju">66.28</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;辽源市</td>
+<td class="shuju">2.17</td>
+<td class="shuju">0.24</td>
+<td class="shuju">56.89</td>
+<td class="shuju">69.59</td>
+<td class="shuju">40.94</td>
+<td class="shuju">30.17</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;通化市</td>
+<td class="shuju">1.46</td>
+<td class="shuju">0.09</td>
+<td class="shuju">57.57</td>
+<td class="shuju">70.24</td>
+<td class="shuju">40.97</td>
+<td class="shuju">29.67</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;白山市</td>
+<td class="shuju">10.67</td>
+<td class="shuju">4.50</td>
+<td class="shuju">40.67</td>
+<td class="shuju">49.50</td>
+<td class="shuju">48.66</td>
+<td class="shuju">46.00</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;松原市</td>
+<td class="shuju">7.71</td>
+<td class="shuju">0.59</td>
+<td class="shuju">46.75</td>
+<td class="shuju">62.07</td>
+<td class="shuju">45.54</td>
+<td class="shuju">37.34</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;白城市</td>
+<td class="shuju">12.31</td>
+<td class="shuju">11.25</td>
+<td class="shuju">21.22</td>
+<td class="shuju">20.93</td>
+<td class="shuju">66.47</td>
+<td class="shuju">67.82</td>
+</tr>
+<tr><td class="zhibiao">黑龙江省</td>
+<td class="shuju">12.83</td>
+<td class="shuju">6.00</td>
+<td class="shuju">34.76</td>
+<td class="shuju">43.10</td>
+<td class="shuju">52.41</td>
+<td class="shuju">50.90</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;哈尔滨市</td>
+<td class="shuju">3.67</td>
+<td class="shuju">1.32</td>
+<td class="shuju">35.30</td>
+<td class="shuju">38.14</td>
+<td class="shuju">61.03</td>
+<td class="shuju">60.54</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;齐齐哈尔市</td>
+<td class="shuju">16.45</td>
+<td class="shuju">21.73</td>
+<td class="shuju">27.80</td>
+<td class="shuju">31.17</td>
+<td class="shuju">55.75</td>
+<td class="shuju">47.10</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;鸡西市</td>
+<td class="shuju">18.46</td>
+<td class="shuju">0.47</td>
+<td class="shuju">38.61</td>
+<td class="shuju">62.03</td>
+<td class="shuju">42.93</td>
+<td class="shuju">37.50</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;鹤岗市</td>
+<td class="shuju">20.99</td>
+<td class="shuju">1.94</td>
+<td class="shuju">43.79</td>
+<td class="shuju">65.31</td>
+<td class="shuju">35.22</td>
+<td class="shuju">32.75</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;双鸭山市</td>
+<td class="shuju">4.35</td>
+<td class="shuju">2.50</td>
+<td class="shuju">37.96</td>
+<td class="shuju">60.08</td>
+<td class="shuju">57.69</td>
+<td class="shuju">37.42</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;大庆市</td>
+<td class="shuju">0.64</td>
+<td class="shuju">0.13</td>
+<td class="shuju">51.64</td>
+<td class="shuju">55.57</td>
+<td class="shuju">47.72</td>
+<td class="shuju">44.30</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;伊春市</td>
+<td class="shuju">51.47</td>
+<td class="shuju">48.11</td>
+<td class="shuju">18.28</td>
+<td class="shuju">20.91</td>
+<td class="shuju">30.25</td>
+<td class="shuju">30.98</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;佳木斯市</td>
+<td class="shuju">11.75</td>
+<td class="shuju">4.95</td>
+<td class="shuju">26.82</td>
+<td class="shuju">32.47</td>
+<td class="shuju">61.43</td>
+<td class="shuju">62.58</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;七台河市</td>
+<td class="shuju">3.53</td>
+<td class="shuju">2.62</td>
+<td class="shuju">64.56</td>
+<td class="shuju">69.54</td>
+<td class="shuju">31.91</td>
+<td class="shuju">27.84</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;牡丹江市</td>
+<td class="shuju">16.00</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">29.87</td>
+<td class="shuju">29.47</td>
+<td class="shuju">54.13</td>
+<td class="shuju">70.53</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;黑河市</td>
+<td class="shuju">50.86</td>
+<td class="shuju">6.80</td>
+<td class="shuju">12.15</td>
+<td class="shuju">18.05</td>
+<td class="shuju">36.99</td>
+<td class="shuju">75.15</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;绥化市</td>
+<td class="shuju">4.71</td>
+<td class="shuju">2.38</td>
+<td class="shuju">30.59</td>
+<td class="shuju">25.19</td>
+<td class="shuju">64.70</td>
+<td class="shuju">72.43</td>
+</tr>
+<tr><td class="zhibiao">上海市</td>
+<td class="shuju">0.76</td>
+<td class="shuju">0.58</td>
+<td class="shuju">35.22</td>
+<td class="shuju">35.04</td>
+<td class="shuju">64.02</td>
+<td class="shuju">64.38</td>
+</tr>
+<tr><td class="zhibiao">江苏省</td>
+<td class="shuju">0.39</td>
+<td class="shuju">0.24</td>
+<td class="shuju">68.17</td>
+<td class="shuju">64.78</td>
+<td class="shuju">31.44</td>
+<td class="shuju">34.98</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;南京市</td>
+<td class="shuju">0.07</td>
+<td class="shuju">0.07</td>
+<td class="shuju">49.90</td>
+<td class="shuju">49.90</td>
+<td class="shuju">50.03</td>
+<td class="shuju">50.03</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;无锡市</td>
+<td class="shuju">0.13</td>
+<td class="shuju">0.04</td>
+<td class="shuju">66.73</td>
+<td class="shuju">65.63</td>
+<td class="shuju">33.14</td>
+<td class="shuju">34.33</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;徐州市</td>
+<td class="shuju">1.33</td>
+<td class="shuju">1.07</td>
+<td class="shuju">59.91</td>
+<td class="shuju">59.99</td>
+<td class="shuju">38.76</td>
+<td class="shuju">38.94</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;常州市</td>
+<td class="shuju">0.08</td>
+<td class="shuju">0.01</td>
+<td class="shuju">62.09</td>
+<td class="shuju">63.52</td>
+<td class="shuju">37.83</td>
+<td class="shuju">36.47</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;苏州市</td>
+<td class="shuju">0.01</td>
+<td class="shuju">0.01</td>
+<td class="shuju">75.77</td>
+<td class="shuju">73.42</td>
+<td class="shuju">24.22</td>
+<td class="shuju">26.57</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;南通市</td>
+<td class="shuju">0.29</td>
+<td class="shuju">0.19</td>
+<td class="shuju">82.55</td>
+<td class="shuju">76.15</td>
+<td class="shuju">17.16</td>
+<td class="shuju">23.66</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;连云港市</td>
+<td class="shuju">1.85</td>
+<td class="shuju">1.74</td>
+<td class="shuju">50.46</td>
+<td class="shuju">53.25</td>
+<td class="shuju">47.69</td>
+<td class="shuju">45.01</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;淮安市</td>
+<td class="shuju">0.81</td>
+<td class="shuju">0.56</td>
+<td class="shuju">66.43</td>
+<td class="shuju">68.46</td>
+<td class="shuju">32.76</td>
+<td class="shuju">30.98</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;盐城市</td>
+<td class="shuju">2.14</td>
+<td class="shuju">1.02</td>
+<td class="shuju">62.72</td>
+<td class="shuju">64.76</td>
+<td class="shuju">35.14</td>
+<td class="shuju">34.22</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;扬州市</td>
+<td class="shuju">0.06</td>
+<td class="shuju">0.05</td>
+<td class="shuju">76.23</td>
+<td class="shuju">76.59</td>
+<td class="shuju">23.71</td>
+<td class="shuju">23.36</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;镇江市</td>
+<td class="shuju">0.26</td>
+<td class="shuju">0.13</td>
+<td class="shuju">62.68</td>
+<td class="shuju">52.53</td>
+<td class="shuju">37.06</td>
+<td class="shuju">47.34</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;泰州市</td>
+<td class="shuju">0.19</td>
+<td class="shuju">0.09</td>
+<td class="shuju">77.50</td>
+<td class="shuju">77.11</td>
+<td class="shuju">22.31</td>
+<td class="shuju">22.80</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;宿迁市</td>
+<td class="shuju">0.10</td>
+<td class="shuju">0.07</td>
+<td class="shuju">67.30</td>
+<td class="shuju">78.57</td>
+<td class="shuju">32.60</td>
+<td class="shuju">21.36</td>
+</tr>
+<tr><td class="zhibiao">浙江省</td>
+<td class="shuju">0.05</td>
+<td class="shuju">0.08</td>
+<td class="shuju">62.49</td>
+<td class="shuju">57.96</td>
+<td class="shuju">37.46</td>
+<td class="shuju">41.96</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;杭州市</td>
+<td class="shuju">0.04</td>
+<td class="shuju">0.03</td>
+<td class="shuju">54.45</td>
+<td class="shuju">54.59</td>
+<td class="shuju">45.51</td>
+<td class="shuju">45.38</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;宁波市</td>
+<td class="shuju">0.03</td>
+<td class="shuju">0.01</td>
+<td class="shuju">64.40</td>
+<td class="shuju">56.23</td>
+<td class="shuju">35.57</td>
+<td class="shuju">43.76</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国城市统计年鉴2015》</div>
+</div>
+</body>
+</html>

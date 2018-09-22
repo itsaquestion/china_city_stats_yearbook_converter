@@ -1,0 +1,428 @@
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 以上这行设定本网页为excel格式的网页 -->
+
+<html>
+<head>
+<title>Excel档案呈现方式</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<style type="text/css">
+table tr td{height:25px;}
+ .tb {border:1px solid #000;border-collapse:collapse; border-spacing:0; }
+ .tb td  {height:25px;
+         font-size:13px;
+         min-width:100px;
+         width:auto !important; 
+         border-top: 1px solid #FFFFFF;       
+         border-left: 1px solid #FFFFFF;       
+         border-right: 1px solid #000000;       
+         border-bottom: 1px solid #000000; 
+        }
+.biaotou {background-color:#FFAA42;}
+.zhibiao {background-color:#AD927B;text-align:left;padding-left:5px;color:#fff;}
+.shuju{background-color:#F7EFDE;}
+.exp {margin-top:20px;}
+</style>
+</head>
+<body>
+<div id="tti" style="text-align:center;font-size:14px;font-weight:600;margin-bottom:20px;">中国2014年地级以上城市年末金融机构存贷款余额统计(二)</div>
+<div style="text-align:left;padding-left:30%;margin-top:20px;margin-bottom:10px;font-size:14px;"></div>
+<div id="ttx" style="text-align:center;">
+<table class="exp" id="tab0">
+<tr><td>单位:万元</td></tr>
+</table>
+<table id="tab1" class="tb">
+<tr><td class="biaotou" rowspan="3">城市</td>
+<td class="biaotou" colspan="4">年末金融机构人民币各项存款余额</td>
+<td class="biaotou" colspan="2">年末金融机构人民币各项贷款余额</td>
+</tr><tr><td class="biaotou" rowspan="2">全市</td>
+<td class="biaotou" rowspan="2">市辖区</td>
+<td class="biaotou" colspan="2">居民人民币储蓄存款余额</td>
+<td class="biaotou" rowspan="2">全市</td>
+<td class="biaotou" rowspan="2">市辖区</td>
+</tr><tr><td class="biaotou">全市</td>
+<td class="biaotou">市辖区</td>
+</tr><tr><td class="zhibiao">&nbsp;&nbsp;阜新市</td>
+<td class="shuju">8346368</td>
+<td class="shuju">6173771</td>
+<td class="shuju">5522274</td>
+<td class="shuju">3788234</td>
+<td class="shuju">6994871</td>
+<td class="shuju">5253643</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;辽阳市</td>
+<td class="shuju">14081856</td>
+<td class="shuju">10452951</td>
+<td class="shuju">8154462</td>
+<td class="shuju">5321162</td>
+<td class="shuju">9115441</td>
+<td class="shuju">6895349</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;盘锦市</td>
+<td class="shuju">13067206</td>
+<td class="shuju">10609196</td>
+<td class="shuju">8531712</td>
+<td class="shuju">6583180</td>
+<td class="shuju">7997416</td>
+<td class="shuju">6128703</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;铁岭市</td>
+<td class="shuju">10248135</td>
+<td class="shuju">4915662</td>
+<td class="shuju">7905599</td>
+<td class="shuju">3585383</td>
+<td class="shuju">7737348</td>
+<td class="shuju">3888257</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;朝阳市</td>
+<td class="shuju">12457893</td>
+<td class="shuju">5848650</td>
+<td class="shuju">9178366</td>
+<td class="shuju">3947740</td>
+<td class="shuju">8289123</td>
+<td class="shuju">4856074</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;葫芦岛市</td>
+<td class="shuju">13035000</td>
+<td class="shuju">7658425</td>
+<td class="shuju">8849623</td>
+<td class="shuju">3985624</td>
+<td class="shuju">8049000</td>
+<td class="shuju">4985213</td>
+</tr>
+<tr><td class="zhibiao">吉林省</td>
+<td class="shuju">151146793</td>
+<td class="shuju">112906542</td>
+<td class="shuju">76992356</td>
+<td class="shuju">49138799</td>
+<td class="shuju">119160783</td>
+<td class="shuju">91304116</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;长春市</td>
+<td class="shuju">87233897</td>
+<td class="shuju">79221771</td>
+<td class="shuju">33801096</td>
+<td class="shuju">27424812</td>
+<td class="shuju">74754472</td>
+<td class="shuju">68870912</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;吉林市</td>
+<td class="shuju">21764727</td>
+<td class="shuju">15615147</td>
+<td class="shuju">14130496</td>
+<td class="shuju">9632120</td>
+<td class="shuju">13664670</td>
+<td class="shuju">9507517</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;四平市</td>
+<td class="shuju">9258778</td>
+<td class="shuju">3556815</td>
+<td class="shuju">6970094</td>
+<td class="shuju">2630573</td>
+<td class="shuju">7305163</td>
+<td class="shuju">2875705</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;辽源市</td>
+<td class="shuju">4021294</td>
+<td class="shuju">2437812</td>
+<td class="shuju">3050706</td>
+<td class="shuju">1763195</td>
+<td class="shuju">3241034</td>
+<td class="shuju">1983553</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;通化市</td>
+<td class="shuju">9109506</td>
+<td class="shuju">3253631</td>
+<td class="shuju">6372275</td>
+<td class="shuju">1950119</td>
+<td class="shuju">5804153</td>
+<td class="shuju">2271357</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;白山市</td>
+<td class="shuju">5704489</td>
+<td class="shuju">2956837</td>
+<td class="shuju">3961639</td>
+<td class="shuju">2051579</td>
+<td class="shuju">3940886</td>
+<td class="shuju">2464144</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;松原市</td>
+<td class="shuju">8309748</td>
+<td class="shuju">3521457</td>
+<td class="shuju">5259898</td>
+<td class="shuju">2211656</td>
+<td class="shuju">6007425</td>
+<td class="shuju">1866753</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;白城市</td>
+<td class="shuju">5744354</td>
+<td class="shuju">2343072</td>
+<td class="shuju">3446152</td>
+<td class="shuju">1474745</td>
+<td class="shuju">4442980</td>
+<td class="shuju">1464175</td>
+</tr>
+<tr><td class="zhibiao">黑龙江省</td>
+<td class="shuju">190741361</td>
+<td class="shuju">136409874</td>
+<td class="shuju">108105147</td>
+<td class="shuju">67649512</td>
+<td class="shuju">133814885</td>
+<td class="shuju">96561033</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;哈尔滨市</td>
+<td class="shuju">88839790</td>
+<td class="shuju">79549510</td>
+<td class="shuju">37688193</td>
+<td class="shuju">30514290</td>
+<td class="shuju">72574525</td>
+<td class="shuju">66642783</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;齐齐哈尔市</td>
+<td class="shuju">14347447</td>
+<td class="shuju">8743694</td>
+<td class="shuju">9761616</td>
+<td class="shuju">5716680</td>
+<td class="shuju">11642889</td>
+<td class="shuju">6925209</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;鸡西市</td>
+<td class="shuju">8557048</td>
+<td class="shuju">4730047</td>
+<td class="shuju">6272591</td>
+<td class="shuju">3383619</td>
+<td class="shuju">4534587</td>
+<td class="shuju">2252126</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;鹤岗市</td>
+<td class="shuju">4871343</td>
+<td class="shuju">3505584</td>
+<td class="shuju">3530874</td>
+<td class="shuju">2599759</td>
+<td class="shuju">3535531</td>
+<td class="shuju">1491143</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;双鸭山市</td>
+<td class="shuju">6227036</td>
+<td class="shuju">3037393</td>
+<td class="shuju">4524493</td>
+<td class="shuju">1979296</td>
+<td class="shuju">5274242</td>
+<td class="shuju">3067595</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;大庆市</td>
+<td class="shuju">20465564</td>
+<td class="shuju">18107728</td>
+<td class="shuju">12311800</td>
+<td class="shuju">10506853</td>
+<td class="shuju">8756645</td>
+<td class="shuju">6858676</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;伊春市</td>
+<td class="shuju">5217242</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">3688141</td>
+<td class="shuju">&nbsp;</td>
+<td class="shuju">1404903</td>
+<td class="shuju">&nbsp;</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;佳木斯市</td>
+<td class="shuju">10229208</td>
+<td class="shuju">5061488</td>
+<td class="shuju">7034328</td>
+<td class="shuju">3691774</td>
+<td class="shuju">7885461</td>
+<td class="shuju">1608008</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;七台河市</td>
+<td class="shuju">3532126</td>
+<td class="shuju">2842339</td>
+<td class="shuju">2387564</td>
+<td class="shuju">1883445</td>
+<td class="shuju">2037897</td>
+<td class="shuju">1571626</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;牡丹江市</td>
+<td class="shuju">12054164</td>
+<td class="shuju">6319654</td>
+<td class="shuju">8799401</td>
+<td class="shuju">4241682</td>
+<td class="shuju">6003600</td>
+<td class="shuju">3410199</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;黑河市</td>
+<td class="shuju">5961193</td>
+<td class="shuju">1813549</td>
+<td class="shuju">4015146</td>
+<td class="shuju">1198804</td>
+<td class="shuju">3316105</td>
+<td class="shuju">920773</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;绥化市</td>
+<td class="shuju">10439200</td>
+<td class="shuju">2698888</td>
+<td class="shuju">8091000</td>
+<td class="shuju">1933310</td>
+<td class="shuju">6848500</td>
+<td class="shuju">1812895</td>
+</tr>
+<tr><td class="zhibiao">上海市</td>
+<td class="shuju">738824500</td>
+<td class="shuju">738824500</td>
+<td class="shuju">219955400</td>
+<td class="shuju">219955400</td>
+<td class="shuju">479158100</td>
+<td class="shuju">479158100</td>
+</tr>
+<tr><td class="zhibiao">江苏省</td>
+<td class="shuju">937356135</td>
+<td class="shuju">640408537</td>
+<td class="shuju">365805920</td>
+<td class="shuju">211690820</td>
+<td class="shuju">695726695</td>
+<td class="shuju">479089485</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;南京市</td>
+<td class="shuju">201618645</td>
+<td class="shuju">201618645</td>
+<td class="shuju">50557718</td>
+<td class="shuju">50557718</td>
+<td class="shuju">156285338</td>
+<td class="shuju">156285338</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;无锡市</td>
+<td class="shuju">118490262</td>
+<td class="shuju">73288937</td>
+<td class="shuju">43414531</td>
+<td class="shuju">25831629</td>
+<td class="shuju">86696180</td>
+<td class="shuju">51454754</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;徐州市</td>
+<td class="shuju">42864617</td>
+<td class="shuju">28455976</td>
+<td class="shuju">23774417</td>
+<td class="shuju">12970158</td>
+<td class="shuju">27247917</td>
+<td class="shuju">17965025</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;常州市</td>
+<td class="shuju">67585745</td>
+<td class="shuju">53653331</td>
+<td class="shuju">29341866</td>
+<td class="shuju">22211493</td>
+<td class="shuju">47897396</td>
+<td class="shuju">37666943</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;苏州市</td>
+<td class="shuju">214281958</td>
+<td class="shuju">127832839</td>
+<td class="shuju">67534428</td>
+<td class="shuju">34328749</td>
+<td class="shuju">172479352</td>
+<td class="shuju">105325123</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;南通市</td>
+<td class="shuju">83395377</td>
+<td class="shuju">38311644</td>
+<td class="shuju">46028671</td>
+<td class="shuju">17182104</td>
+<td class="shuju">51303751</td>
+<td class="shuju">24046538</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;连云港市</td>
+<td class="shuju">18526663</td>
+<td class="shuju">12967036</td>
+<td class="shuju">9240273</td>
+<td class="shuju">5601294</td>
+<td class="shuju">15493353</td>
+<td class="shuju">11250645</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;淮安市</td>
+<td class="shuju">20057228</td>
+<td class="shuju">12425650</td>
+<td class="shuju">10445155</td>
+<td class="shuju">6112694</td>
+<td class="shuju">16175512</td>
+<td class="shuju">10048707</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;盐城市</td>
+<td class="shuju">36927460</td>
+<td class="shuju">15177031</td>
+<td class="shuju">20623925</td>
+<td class="shuju">5556952</td>
+<td class="shuju">25679840</td>
+<td class="shuju">10978984</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;扬州市</td>
+<td class="shuju">42697506</td>
+<td class="shuju">30716708</td>
+<td class="shuju">21170920</td>
+<td class="shuju">13713008</td>
+<td class="shuju">27324173</td>
+<td class="shuju">20032570</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;镇江市</td>
+<td class="shuju">35362727</td>
+<td class="shuju">18030429</td>
+<td class="shuju">15694030</td>
+<td class="shuju">6401130</td>
+<td class="shuju">26798280</td>
+<td class="shuju">12400971</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;泰州市</td>
+<td class="shuju">39558366</td>
+<td class="shuju">20104641</td>
+<td class="shuju">19848014</td>
+<td class="shuju">8460912</td>
+<td class="shuju">27515061</td>
+<td class="shuju">14615575</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;宿迁市</td>
+<td class="shuju">15989581</td>
+<td class="shuju">7825670</td>
+<td class="shuju">8131972</td>
+<td class="shuju">2762979</td>
+<td class="shuju">14830542</td>
+<td class="shuju">7018312</td>
+</tr>
+<tr><td class="zhibiao">浙江省</td>
+<td class="shuju">771453761</td>
+<td class="shuju">507661311</td>
+<td class="shuju">306664120</td>
+<td class="shuju">164969647</td>
+<td class="shuju">685663235</td>
+<td class="shuju">445172150</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;杭州市</td>
+<td class="shuju">239500462</td>
+<td class="shuju">226419846</td>
+<td class="shuju">66945512</td>
+<td class="shuju">60042569</td>
+<td class="shuju">203561710</td>
+<td class="shuju">192783793</td>
+</tr>
+<tr><td class="zhibiao">&nbsp;&nbsp;宁波市</td>
+<td class="shuju">133074057</td>
+<td class="shuju">91311400</td>
+<td class="shuju">47803126</td>
+<td class="shuju">26554803</td>
+<td class="shuju">136106069</td>
+<td class="shuju">89379874</td>
+</tr>
+</table>
+
+<div style="margin-top:10px;margin-bottom:20px;font-size:14px;">摘编自《中国城市统计年鉴2015》</div>
+</div>
+</body>
+</html>
